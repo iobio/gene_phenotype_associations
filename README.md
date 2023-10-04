@@ -14,7 +14,7 @@ cd gene_phenotype_associations
 Create a python environment and install pandas:
 ```
 python3 -m venv g2p
-source activate g2p/bin/activate.sh
+source g2p/bin/activate
 pip install pandas
 ```
 
