@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mkdir downloads
 cd downloads
 mkdir hpo

@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 echo 'CREATING SCHEMA...'
 sqlite3 gene_to_phenotype.db < sql/schema.sql
